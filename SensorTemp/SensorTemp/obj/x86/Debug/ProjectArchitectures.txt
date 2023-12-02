@@ -1,0 +1,1 @@
+C:\Users\pinch\source\repos\SensorTemp\SensorTemp\SensorTemp.csproj;x86
